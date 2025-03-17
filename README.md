@@ -24,11 +24,11 @@
 * Easy object recycling
 
 
-##Quick start##
+## Quick start ##  
 Check [Flixel Community](http://flixelcommunity.github.com) website for tutorials.
 
-##Contributing##
-
+## Contributing ##  
+  
 If you want to contribute with Flixel Community, be welcome! You can help us with code, testing, tutorials and much more. Take a look at the [CONTRIBUTING](https://github.com/FlixelCommunity/flixel/blob/master/CONTRIBUTING.md) file for more.
 
 ## License ##
