@@ -35,7 +35,7 @@ If you want to contribute with Flixel Community, be welcome! You can help us wit
 
 Flixel Community is licensed under the [MIT](http://opensource.org/licenses/MIT) license.
 
-## About Flixel and Flixel Community##
+## About Flixel and Flixel Community ##
 
 [Flixel](http://flixel.org) is a well known open source and free game engine created by [Adam “Atomic” Saltsman](https://github.com/AdamAtomic/flixel). Flixel has been used in hundreds of games, including IGF nominees, Adult Swim games, and avant-garde experiments. Many Flixel users make their first game ever in Flixel.
 
